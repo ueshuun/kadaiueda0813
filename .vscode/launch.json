@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DemoApplication",
+            "request": "launch",
+            "mainClass": "com.example.DemoApplication",
+            "projectName": "hello"
+        },
+        {
+            "type": "java",
+            "name": "DemoApplication",
+            "request": "launch",
+            "mainClass": "com.example.DemoApplication",
+            "projectName": "SpringCloudFunction"
+        },
+        {
+            "name": "Attach to Java Functions",
+            "type": "java",
+            "request": "attach",
+            "hostName": "127.0.0.1",
+            "port": 5005,
+            "preLaunchTask": "func: host start"
+        }
+    ]
+}
