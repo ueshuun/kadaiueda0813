@@ -60,3 +60,4 @@ curl https://<YOUR_SPRING_FUNCTION_NAME>.azurewebsites.net/api/hello?name=Azure
 
 Replace the `<YOUR_SPRING_FUNCTION_NAME>` part by the name of your Spring Function.
 "# kadaiueda0813" 
+"# 20252Q-ueda-Front" 
